@@ -1,0 +1,11 @@
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.csproj.AssemblyReference.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.Form1.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_Diretor.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.Properties.Resources.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.csproj.GenerateResource.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.csproj.CoreCompileInputs.cache
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\bin\Debug\Escola.exe.config
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\bin\Debug\Escola.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\bin\Debug\Escola.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.exe
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.pdb
