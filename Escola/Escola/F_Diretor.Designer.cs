@@ -30,11 +30,11 @@
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.gerenciarProfessoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.relatóriosEEstatísticasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cadastrarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.editarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.listarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.deletarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.relatóriosEEstatísticasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -60,17 +60,12 @@
             this.gerenciarProfessoresToolStripMenuItem.Size = new System.Drawing.Size(132, 20);
             this.gerenciarProfessoresToolStripMenuItem.Text = "Gerenciar Professores";
             // 
-            // relatóriosEEstatísticasToolStripMenuItem
-            // 
-            this.relatóriosEEstatísticasToolStripMenuItem.Name = "relatóriosEEstatísticasToolStripMenuItem";
-            this.relatóriosEEstatísticasToolStripMenuItem.Size = new System.Drawing.Size(140, 20);
-            this.relatóriosEEstatísticasToolStripMenuItem.Text = "Relatórios e Estatísticas";
-            // 
             // cadastrarToolStripMenuItem
             // 
             this.cadastrarToolStripMenuItem.Name = "cadastrarToolStripMenuItem";
             this.cadastrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.cadastrarToolStripMenuItem.Text = "Cadastrar";
+            this.cadastrarToolStripMenuItem.Click += new System.EventHandler(this.cadastrarToolStripMenuItem_Click);
             // 
             // editarToolStripMenuItem
             // 
@@ -89,6 +84,12 @@
             this.deletarToolStripMenuItem.Name = "deletarToolStripMenuItem";
             this.deletarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.deletarToolStripMenuItem.Text = "Deletar";
+            // 
+            // relatóriosEEstatísticasToolStripMenuItem
+            // 
+            this.relatóriosEEstatísticasToolStripMenuItem.Name = "relatóriosEEstatísticasToolStripMenuItem";
+            this.relatóriosEEstatísticasToolStripMenuItem.Size = new System.Drawing.Size(140, 20);
+            this.relatóriosEEstatísticasToolStripMenuItem.Text = "Relatórios e Estatísticas";
             // 
             // F_Diretor
             // 

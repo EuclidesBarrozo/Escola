@@ -22,5 +22,11 @@ namespace Escola
         {
 
         }
+
+        private void cadastrarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            F_CadastrarProfessor janelaCadastrarProfessor = new F_CadastrarProfessor();
+            janelaCadastrarProfessor.ShowDialog();
+        }
     }
 }

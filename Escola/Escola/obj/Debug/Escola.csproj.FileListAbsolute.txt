@@ -9,3 +9,4 @@ C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\bin\Debug\Escola.pdb
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.exe
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.pdb
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_CadastrarProfessor.resources

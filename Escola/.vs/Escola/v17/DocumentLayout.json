@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\f_cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\f_cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_cadastrarprofessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|c:\\users\\eucli\\onedrive\\\u00E1rea de trabalho\\cursos\\programadordesistema\\turma2025\\projeto\\escola\\escola\\escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0685ED6E-24B0-48FF-ABA6-6B24F46BEBC8}|Escola\\Escola.csproj|solutionrelative:escola\\f_diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +34,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F_CadastrarProfessor.cs",
+              "DocumentMoniker": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\F_CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola\\F_CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\F_CadastrarProfessor.cs",
+              "RelativeToolTip": "Escola\\F_CadastrarProfessor.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswDkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T18:40:54.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "F_CadastrarProfessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\F_CadastrarProfessor.cs",
+              "RelativeDocumentMoniker": "Escola\\F_CadastrarProfessor.cs",
+              "ToolTip": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\F_CadastrarProfessor.cs [Design]",
+              "RelativeToolTip": "Escola\\F_CadastrarProfessor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T17:58:38.586Z",
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -36,14 +69,14 @@
               "RelativeDocumentMoniker": "Escola\\F_Diretor.cs",
               "ToolTip": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\F_Diretor.cs",
               "RelativeToolTip": "Escola\\F_Diretor.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAWwBEAAAAVAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwBwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T19:39:24.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
@@ -68,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\eucli\\OneDrive\\\u00C1rea de Trabalho\\CURSOS\\ProgramadorDeSistema\\turma2025\\Projeto\\Escola\\Escola\\Escola\\Form1.cs",
               "RelativeDocumentMoniker": "Escola\\Form1.cs",
