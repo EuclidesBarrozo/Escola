@@ -10,3 +10,7 @@ C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.exe
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.pdb
 C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_CadastrarProfessor.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_Professor.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_CadastrarAluno.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_Aluno.resources
+C:\Users\eucli\OneDrive\Área de Trabalho\CURSOS\ProgramadorDeSistema\turma2025\Projeto\Escola\Escola\Escola\obj\Debug\Escola.F_GerenciarAlunos.resources

@@ -52,6 +52,18 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_Aluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Aluno.Designer.cs">
+      <DependentUpon>F_Aluno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_CadastrarAluno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_CadastrarAluno.Designer.cs">
+      <DependentUpon>F_CadastrarAluno.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_CadastrarProfessor.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -64,16 +76,41 @@
     <Compile Include="F_Diretor.Designer.cs">
       <DependentUpon>F_Diretor.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_GerenciarAlunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_GerenciarAlunos.Designer.cs">
+      <DependentUpon>F_GerenciarAlunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_Professor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_Professor.Designer.cs">
+      <DependentUpon>F_Professor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordHelper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Aluno.resx">
+      <DependentUpon>F_Aluno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_CadastrarAluno.resx">
+      <DependentUpon>F_CadastrarAluno.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_CadastrarProfessor.resx">
       <DependentUpon>F_CadastrarProfessor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Diretor.resx">
       <DependentUpon>F_Diretor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_GerenciarAlunos.resx">
+      <DependentUpon>F_GerenciarAlunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_Professor.resx">
+      <DependentUpon>F_Professor.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
