@@ -38,6 +38,8 @@
             this.dgvListaAlunos.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvListaAlunos.Location = new System.Drawing.Point(12, 65);
             this.dgvListaAlunos.Name = "dgvListaAlunos";
+            this.dgvListaAlunos.ReadOnly = true;
+            this.dgvListaAlunos.RowHeadersVisible = false;
             this.dgvListaAlunos.Size = new System.Drawing.Size(502, 353);
             this.dgvListaAlunos.TabIndex = 0;
             this.dgvListaAlunos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvListaAlunos_CellContentClick);
